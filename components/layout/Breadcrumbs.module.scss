@@ -12,7 +12,7 @@
 
     .crumb {
         &.active {
-            color: map-get($colours, "darkGrey");
+            color: map-get($colours, "grey");
         }
 
         &:not(:first-child) {
